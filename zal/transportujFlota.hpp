@@ -1,6 +1,5 @@
 #pragma once
-
-#include "include/Stocznia.hpp"
+#include "Stocznia.hpp"
 
 unsigned int transportujFlota(unsigned int towar)
 {
