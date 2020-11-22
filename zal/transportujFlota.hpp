@@ -19,5 +19,5 @@ unsigned int transportujFlota(unsigned int towar)
         suma += ladunek;
         delete s1;
     } while (suma <= towar);
-    
+   return zaglowce;
 }
